@@ -7,7 +7,6 @@
 <th>inspiration</th>
 <th>year</th>
 <th>status</th>
-<th>souvenir</th>
 </tr>
 </thead>
 <tbody>
