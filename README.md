@@ -1,7 +1,6 @@
 <table>
 <thead>
 <tr class="header">
-<th>completed</th>
 <th>goal</th>
 <th>category</th>
 <th>inspiration</th>
